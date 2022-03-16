@@ -1,0 +1,45 @@
+@media (min-width: 720px) {
+    .nav-mobile {
+        display: none;
+    }
+}
+
+@media (max-width: 420px) {
+    #nav {
+        display: block;
+    }
+    #nav li {
+        display: block;
+        text-align: left;
+    }
+    #header #nav-mobile {
+        display: flex;
+        color: #fff;
+    }
+    #header #nav-mobile:hover {
+        background-color: #fff;
+        color: #000;
+        border-radius: 30px;
+    }
+    #header .search-bar {
+        display: none;
+    }
+    #content .member-list {
+        display: block;
+    }
+    #content .member-list .member-item {
+        width: 100%;
+    }
+    .tour-section .tour-place-list {
+        display: block;
+    }
+    .tour-place-list .tour-place-item {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .contact-mobile {
+        width: 100%;
+        margin: 5px 0;
+        /* display: block !important; */
+    }
+}

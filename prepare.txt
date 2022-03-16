@@ -1,0 +1,23 @@
+1. Phân tích giao diện website ✅
+    - Header
+    - Slider
+    - Content
+        + Home
+        + Band
+        + Tour
+        + Contact
+        + More ...
+    - Footer
+2. Dựng base 
+3. Xây dựng từng phần theo phân tích
+    - Header
+    - Slider
+    - Content
+    - Footer
+4. Hoàn thiện
+
+
+
+
+ONE PAGE
+
